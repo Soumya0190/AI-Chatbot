@@ -1,0 +1,24 @@
+# Core Transformers and Model Utilities
+transformers==4.46.3
+tokenizers==0.20.3
+accelerate==0.26.0
+tiktoken==0.5.1
+einops==0.7.0
+scipy
+transformers_stream_generator==0.0.4
+peft==0.5.0
+auto-gptq==0.4.2
+optimum==1.13.2
+sentence-transformers==3.2.1
+
+# Search and Web Access
+google==3.0.0
+googlesearch-python==1.2.3
+
+# Web UI and Automation
+selenium==4.10.0
+gradio==4.44.1
+webdriver-manager==4.0.2
+
+# Testing
+pytest==7.4.3
