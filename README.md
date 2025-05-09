@@ -9,6 +9,8 @@ The original github code repository is https://github.com/FzS92/FS_chatbot_rag/t
 
 This is a Python-based financial chatbot equipped with **Retrieval-Augmented Generation (RAG)**. The chatbot seamlessly interacts with users, addressing financial queries by combining the top insights from online sources with the user's input.
 
+🎬 🎧 Youtube Video Demo Link: https://youtu.be/hJoDXIxhGtA
+
 ## Overview
 
 ![ScreenShot](./photos/app.png)
