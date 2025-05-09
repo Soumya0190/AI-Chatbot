@@ -1,3 +1,10 @@
+# Note: 
+This is a cloned code repository. 
+This repo contains modifications to the original repo. 
+Modifications include optimization for Windows CPU. 
+
+The original github code repository is https://github.com/FzS92/FS_chatbot_rag/tree/main
+
 # Financial Chatbot with Retrieval-Augmented Generation (RAG)
 
 This is a Python-based financial chatbot equipped with **Retrieval-Augmented Generation (RAG)**. The chatbot seamlessly interacts with users, addressing financial queries by combining the top insights from online sources with the user's input.
@@ -27,8 +34,8 @@ To employ the financial chatbot, follow these simple steps:
 
 1. Clone the repository and go to the downloaded file.
 ```python
-git clone https://github.com/FzS92/FS_chatbot_rag.git
-cd FS_chatbot_rag
+git clone https://github.com/Soumya0190/AI-Chatbot.git
+cd AI-Chatbot
 ```
 
 

@@ -27,8 +27,6 @@ Methods:
 - `semantic_search`: Perform semantic search by measuring the similarity between encoded of 
         paragraphs or sentences in a corpus and the query.
 
-Author:
-- Farzad Salajegheh, 2024
 """
 
 import gradio as gr
